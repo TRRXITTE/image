@@ -1,0 +1,16 @@
+{
+  "name": "🟥🟪🟩🟨",
+  "symbol": "💹",
+  "description": "🟥🟪🟩🟨 mint authority",
+  "image": "https://github.com/TRRXITTE/image/blob/main/icon.gif?raw=true",
+  "uri": "https://raw.githubusercontent.com/TRRXITTE/image/refs/heads/main/xyz.json",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/TRRXITTE/image/blob/main/icon.gif?raw=true",
+        "type": "image/png"
+      }
+    ]
+  }
+}
