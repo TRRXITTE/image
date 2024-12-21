@@ -1,0 +1,16 @@
+{
+  "name": "NVIDIA",
+  "symbol": "NVIDIA",
+  "description": "",
+  "image": "https://github.com/TRRXITTE/image/blob/main/NVIDIA.jpg?raw=true",
+  "uri": "https://example.com/token-metadata.json",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token-image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
