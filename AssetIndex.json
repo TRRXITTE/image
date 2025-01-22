@@ -1,0 +1,16 @@
+{
+  "name": "TRRXITTE SPX6900 Asset Index",
+  "symbol": "TRX6900",
+  "description": "TRRXITTE SPX6900 Asset Index mint authority",
+  "image": "https://github.com/TRRXITTE/image/blob/main/AssetIndex.JPG?raw=true",
+  "uri": "https://raw.githubusercontent.com/TRRXITTE/image/refs/heads/main/AssetIndex.json",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/TRRXITTE/image/blob/main/AssetIndex.JPG?raw=true",
+        "type": "image/png"
+      }
+    ]
+  }
+}
